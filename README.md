@@ -1,7 +1,7 @@
 3x-ui VLESS REALITY installation + Docker script from video
 https://www.youtube.com/watch?v=VyfhVNUH8C8
 
-0) Buy Your hosting, get root login and root password. https://aeza.net/?ref=554977
+0) Buy Your hosting, get root login and root password. [https://aeza.net/?ref=554977](https://my-aeza.net/?ref=554977)
 
 1) Install https://mobaxterm.mobatek.net/download.html and connect to your Server IP.
 
