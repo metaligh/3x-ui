@@ -1,5 +1,5 @@
 3x-ui VLESS REALITY installation + Docker script from video
-https://youtu.be/KXM0GckmJAo
+[https://youtu.be/KXM0GckmJAo](https://www.youtube.com/watch?v=VyfhVNUH8C8
 
 0) Buy Your hosting, get root login and root password. https://my-aeza.net/?ref=554977
 
